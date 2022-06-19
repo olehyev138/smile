@@ -17,7 +17,7 @@
     "swiper": "^5.4.5",
     "v-calendar": "^1.0.8",
     "vue": "^2.6.12",
-    "vue-2-breadcrumbs": "^0.7.9",
+    "vue-2-breadcrumbs": "^0.8.0",
     "vue-awesome-swiper": "^4.1.1",
     "vue-breadcrumbs": "^1.2.0",
     "vue-click-outside": "^1.1.0",
