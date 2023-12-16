@@ -12,7 +12,7 @@
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "jquery": "^3.5.1",
-    "regenerator-runtime": "^0.13.7",
+    "regenerator-runtime": "^0.14.0",
     "rfs": "^9.0.3",
     "swiper": "^5.4.5",
     "v-calendar": "^1.0.8",
